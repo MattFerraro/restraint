@@ -7,7 +7,7 @@ To constraint the distance between two points we add a spring between them with 
 Points are modeled as point masses, and all springs have some damping applied.
 
 ## Example
-```
+```rust
 let mut system = System::new();
 
 // Add three points which happen to form a right triangle
