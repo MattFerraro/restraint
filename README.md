@@ -52,7 +52,9 @@ Then run it all together like:
 cargo run > results.txt && python plot.py && open movie.mp4
 ```
 
-[movie goes here]
+https://github.com/MattFerraro/restraint/assets/1302431/e6511e0e-0d40-4c78-8e68-3680b1457e59
+
+
 
 ## Notes
 
